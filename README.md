@@ -1,3 +1,3 @@
-# OneCodeOnceADay
+# OneCodeOneDay
 
 ### Document one code daily 
