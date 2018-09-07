@@ -1,12 +1,18 @@
 # Challenge #OneCode21Days Accepted. 
 
-### Why this challenge? 
-All big companies like Google, Facebook, Amazon, Paytm, BookMyShow etc, they all have one requirement in common and that is requirement for knowledge of Algorithms. One can learn languages and frameworks for development toshowcase in their resume but they still aks for Algorithms.
+### What's new?
+* **We get a mentor.**
+* **It's easy.**
+* **We have a smaller time period.**
+* **It's Pair Coding!**
 
-I have suffered enough due to lak of knowledge and I want to start a challenge where I choose one partner and we both code daily for 1 hour. And then I review his code and he reviews mine (he is just a referece to my friend, it could have been a  she!).  We add comments in each other's code as to where it could have been better. We also need to add a new learning each day for 21 days.
+### Why this challenge? 
+All big companies like Google, Facebook, Amazon, Paytm, BookMyShow etc, they all have one requirement in common and that is requirement for knowledge of Algorithms. One can learn languages and frameworks for development to showcase in their resume but they still ask for Algorithms.
+
+I have suffered enough due to lack of knowledge and I want to start a challenge where I choose one partner and we both code daily for 1 hour. And then I review his code and he reviews mine (he is just a referece to my friend, it could have been a  she!).  We add comments in each other's code as to where it could have been better. We also need to add a new learning each day for 21 days.
 
 ### Why 21 days?
-No, it does not take 21 days to break an old habbit. And no it does not take 100 days to break a habbit. Generally it can vary the amount depending upon a person. But to change a habbit, following a 100 days pattern is quite difficult and eaily breaks. Sometimes we need to go somewhere and think to cover it up. And sometimes we miss it casually, thinking one day won't effect us. 
+No, it does not take 21 days to break an old habit. And no it does not take 100 days to break a habit. Generally it can vary the amount depending upon a person. But to change a habit, following a 100 days pattern is quite difficult and it easily breaks. Sometimes we need to go somewhere and think to cover it up later. And sometimes we miss it casually, thinking one day won't effect us. 
 
 **The need is to go straight for a predecided amount of time and without a break.** So this is why I chose 21 days. It is easier and we can code for 1 hour. 
 
@@ -20,6 +26,7 @@ No, it does not take 21 days to break an old habbit. And no it does not take 100
 * Doing alogorithms alone is tiresome and you can get stuck in between.
 * We learn so much.
 * We cut the competition nature of practice. We bring in a learning nature.
+* We get a working GitHub account! 
 
 
 
