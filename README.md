@@ -12,7 +12,7 @@ All big companies like Google, Facebook, Amazon, Paytm, BookMyShow etc, they all
 
 I have suffered enough due to lack of knowledge and I want to start a challenge where I choose one partner and we both code daily for 1 hour. And then I review his code and he reviews mine (he is just a referece to my friend, it could have been a  she!).  We add comments in each other's code as to where it could have been better. We also need to add a new learning each day for 21 days.
 
-### Why is it different from other challenges?
+### How is it different from other challenges?
 * Its brings Pair Programming concept with a new twist.
 * We all become mentors.
 * It is easier to commit to.
