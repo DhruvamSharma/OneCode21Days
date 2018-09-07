@@ -12,6 +12,13 @@ All big companies like Google, Facebook, Amazon, Paytm, BookMyShow etc, they all
 
 I have suffered enough due to lack of knowledge and I want to start a challenge where I choose one partner and we both code daily for 1 hour. And then I review his code and he reviews mine (he is just a referece to my friend, it could have been a  she!).  We add comments in each other's code as to where it could have been better. We also need to add a new learning each day for 21 days.
 
+### Why is it different from other challanges?
+* Its brings Pair Programming concept with a new twist.
+* We all become mentors.
+* It is easier to commit to.
+* It does not take much time.
+* You do not focus much on sharing and posting and logging
+. Just code and show progress.
 ### Why 21 days?
 No, it does not take 21 days to break an old habit. And no it does not take 100 days to break a habit. Generally it can vary the amount depending upon a person. But to change a habit, following a 100 days pattern is quite difficult and it easily breaks. Sometimes we need to go somewhere and think to cover it up later. And sometimes we miss it casually, thinking one day won't effect us. 
 
