@@ -1,30 +1,24 @@
-# I've joined the #100DaysOfCode Challenge.
+# Challenge #OneCodeOneDay Accepted. 
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+### Why this challenge?
 
-## If you've decided to join:
-0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect 
-Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM3LWJiZmIyYThhMmUyYzA3MmQyNDdjNWEwNjdiMWYyM2QwMzg3YjJlOWIzNzg2ZWVmY2M4ZGI5MDQ1NTgzM2Y3MjU) is a invite link to the 100DaysOfCode Slack channel
-1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2. Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3. **Code minimum an hour every day for the next 100 days.**
-4. **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5. Change the date in [Rules](rules.md) to the day you've started the challenge.
-6. Delete the examples in the log, or comment them out, and start filling it with your own content.
-7. **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8. Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9. Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
-## Want to change other habits? 
-Check out [the #100DaysOfX Challenges Project](http://100daysofx.com/). Changing your habits you are changing your life. Remember that the best time to start is always NOW.
+## What you need to do, if you join the challenge:
+**You fork this repository.** 
 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://100daysofx.com/where-x-is/health/), or [#100DaysOfFitness](http://100daysofx.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more! 
+0. Find a partner that you think you can relate to. Someone who can code or want to learn to code and someone you can communicate to.  
+1. Then you both agree upon a level of algorithms you both will be working on. By level, I mean the level of difficulty. Do not choose a very hard level to begin with.   
+2. **You both code for 1 hour daily on a different set of problem from any site you like.**  
+3. After you both are done coding, you push it to this forked repository directory named **"CodeInside"** in a different file with the naming convention - "[NAME OF THE PERSON] DAY [Day NUMBER]". eg DHRUVAM-DAY-1.
+4. Then you both check each other's code and try to understand and review what could have been done better.Try to review the coding styles, naming conventions, code coverage, code efficiency etc.
+5. You both add in the comments what could have been better at the end of the file like I have done in this Readme file that you're reading right now with a **"REVIEW SECTION"** heading.
+6. Also add a **"Today's New Lesson"** heading under which you both add anything you learnt today from anywhere around the world regarding code or algorithms or language.This will help you both to learn something new everyday and this new thing can be anything and as small as that "In java, the member variable boolean has a default value of false". It does not matter that something you came to know about is old or new. If it's new for you, you put that damn thing there!
+7. **You and your partner, both challenge at least one other person on whatever social media platform you like with a hashtag  #OneCodeOneDay. Help the world grow with you!**
+8. I have added two folder named "PartnerOneCodeInside" and "PartnerTwoCodeInside". You both keep your codes there for everyday with a naming convention that I have mentioned in point number: 3.
+9. To push your code daily into the respective folders, you need to go through this, click [here](https://github.com/Roshanjossey/first-contributions).
+10. **Tweet or Instagram or Facebook Share your progress every day using the same hashtag **
 
-## Note
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+
+## REVIEW SECTION
+* If you have any questions or ideas about #OneCodeOneDay (or other ideas), connect me on [Twitter](https://twitter.com/PretentiousData), [Linkedin](https://www.linkedin.com/in/dhruvam), [Facebook](https://www.facebook.com/ITasteALiquorNeverBrewed), [Instagram](https://www.instagram.com/dhruvamsharma/) or [Medium](https://medium.com/@dhruvamsharma).  
+* If you like the concept, please &#9733; star it (on top right of the page) :) Does not take much of your time :)
