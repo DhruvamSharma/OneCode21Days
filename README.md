@@ -52,8 +52,8 @@ No, it does not take 21 days to break an old habit. And no it does not take 100 
 6. Also add a **"Today's New Lesson"** heading under which you both add anything you learnt today from anywhere around the world regarding code or algorithms or language.This will help you both to learn something new everyday and this new thing can be anything and as small as that "In java, the member variable boolean has a default value of false". It does not matter that something you came to know about is old or new. If it's new for you, you put that damn thing there!
 7. **You and your partner, both challenge at least one other person on whatever social media platform you like with a hashtag  #OneCode21Day. Help the world grow with you!**
 8. I have added two folder named "PartnerOneCodeInside" and "PartnerTwoCodeInside". You both keep your codes there for everyday with a naming convention that I have mentioned in point number: 3.
-9. To push your code daily into the respective folders, you need to go through this, click [here](https://github.com/Roshanjossey/first-contributions). 
-10. **Tweet or Instagram or Facebook Share your progress every day using the same hashtag **
+9. To push your code daily into the respective folders, you need to go through this, click [here](https://github.com/Roshanjossey/first-contributions) . 
+10. **Tweet or Instagram or Facebook Share your progress every day using the same hashtag**
 
 
 ### Why sharing the progress?
