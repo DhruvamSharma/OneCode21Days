@@ -8,7 +8,7 @@
 * **And helps in starting with [Open Source Contributions](https://www.quora.com/What-really-is-open-source-contribution)**
 
 ### Why this challenge? 
-All big companies like Google, Facebook, Amazon, Paytm, BookMyShow etc, they all have one requirement in common and that is requirement for knowledge of Algorithms. One can learn languages and frameworks for development to showcase in their resume but they still ask for Algorithms.
+All big companies like Google, Facebook, Amazon, Paytm, BookMyShow etc, they all have one requirement in common and that is requirement for knowledge of Data Structures and Algorithms. One can learn languages and frameworks for development to showcase in their resume but they still ask for Data Structures and Algorithms.
 
 I have suffered enough due to lack of knowledge for the same. Therefore, I want to start a challenge where one can choose a partner for him/herself and they both can code daily for 1 hour. And then they will review each other codes.  They will add comments in each other's code as to where it could have been better. They also need to add a new learning each day for 21 days.
 
