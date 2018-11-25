@@ -1,7 +1,7 @@
 # Challenge #OneCode21Days Accepted. 
 
 ### What's new?
-* **One get a mentor.**
+* **You get a mentor.**
 * **It's Pair Coding!**
 * **It's easy.**
 * **It requires a smaller time period.**
