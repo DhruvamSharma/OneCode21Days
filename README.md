@@ -3,7 +3,7 @@
 ### What's new?
 * **You get a mentor.**
 * **It's Pair Coding!**
-* **It's easy.**
+* **It is easy.**
 * **It requires a smaller time period.**
 * **And helps in starting with [Open Source Contributions](https://www.quora.com/What-really-is-open-source-contribution)**
 
