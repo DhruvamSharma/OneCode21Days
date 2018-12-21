@@ -28,7 +28,7 @@ No, it does not take 21 days to break an old habit. Similarly 100 daysare again 
 
 ### What do we get?
 * We learn how to code 'Algorithms'. 
-* We get a friend as a mentor. 
+* We get a mentor as a friend. 
 * We learn how to code with good practices.
 * It builds up the confidence towards Coding & Problem Solving, thus lowering all the related fears.
 * We will start to aim for bigger companies, thus bigger opportunities.
