@@ -1,4 +1,4 @@
-# Challenge #OneCode21Days Accepted. 
+# Challenge #OneCode21Days Accepted
 
 ### What's new?
 * **You get a mentor.**
